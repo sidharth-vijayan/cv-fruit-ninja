@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Videos / recordings
+*.mp4
+*.mov
+
+# Build / cache
+*.log
+
+# Screenshots or generated assets
+assets/screens/
